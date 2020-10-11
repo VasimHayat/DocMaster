@@ -1,0 +1,21 @@
+h1, p {
+  font-family: Lato;
+}
+.section-main{
+    font-size: 23px;
+    color: red;
+}
+
+.logo { 
+    margin: 16px;
+  }
+  .logo img{
+      width: 155px;
+  }
+  
+  .site-layout .site-layout-background {
+    background: #fff;
+  }
+    [data-theme="dark"] .site-layout .site-layout-background {
+      background: #141414;
+    }
