@@ -26,4 +26,7 @@ $ npm start
 
 ## Screen Shot  
 ![Alt text](https://raw.githubusercontent.com/VasimHayat/DocMaster/main/extra/docMaster.PNG "Doc Master")
+
+# Current Status 
+     Under Development 
  
